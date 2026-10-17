@@ -1,0 +1,36 @@
+{
+  "feature_cols": [
+    "s2",
+    "s3",
+    "s4",
+    "s7",
+    "s8",
+    "s9",
+    "s11",
+    "s12",
+    "s13",
+    "s14",
+    "s15",
+    "s17",
+    "s20",
+    "s21"
+  ],
+  "nb_features": 14,
+  "test_size": 0.2,
+  "random_state": 42,
+  "smote_applique": false,
+  "class_weight": "balanced",
+  "X_train_shape": [
+    16504,
+    14
+  ],
+  "X_test_shape": [
+    4127,
+    14
+  ],
+  "y_train_0": 14024,
+  "y_train_1": 2480,
+  "y_test_0": 3507,
+  "y_test_1": 620,
+  "scaler_path": "models/scaler.pkl"
+}
